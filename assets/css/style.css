@@ -20,9 +20,10 @@ body {
     font-size: 48px;
 }
 
+/* 
 .header h1 .seo {
     color: #d9dcd6;
-}
+}*/
 
 .header div {
     padding-top: 15px;
@@ -85,50 +86,50 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
-.benefit-lead {
+/* Corrected the name  to Lead Generation */
+.Lead-Generation {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
-.benefit-brand {
+/* Corrected the name  to Brand-Awareness */
+.Brand-Awareness {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
-.benefit-cost {
+/* Corrected the name  to Cost Management */
+.Cost-Management {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
-.benefit-lead h3 {
+/* Corrected the name  to Lead Generation */
+.Lead-Generation h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
-.benefit-brand h3 {
+/* Corrected the name to  Brand Awareness*/
+.Brand-Awareness h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
-.benefit-cost h3 {
+/* Corrected the name to Cost  Management*/
+.Cost-Management h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
-.benefit-lead img {
+/* Corrected the name of the class to Lead Generation*/
+.Lead-Generation img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
-.benefit-brand img {
+/* Corrected the name of the class to Brand Awareness*/
+.Brand-Awareness img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
-.benefit-cost img {
+/* Corrected the name of the class to Cost Management*/
+.Cost-Management img {
     display: block;
     margin: 10px auto;
     max-width: 150px;

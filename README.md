@@ -1,22 +1,20 @@
-# 01 HTML CSS Git: Code Refactor
+# Horiseon Social Solution services
+Horiseon provides services related to Search Engine Optimization,Online Reputation Management,Social Media Marketing,Lead Generation,Brand Awareness and Cost Management.
 
-One of the most common tasks for front-end and junior developers is to take existing code and refactor it to either meet a certain set of standards or implement a new technology. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities or socio-economic restrictions have access to their website, and helping them avoid litigation.
-
-Your task is to refactor an existing webpage to make it accessible. An important rule to follow when working with someone else's code is the Scout Rule:
-
-> Always leave the code you are editing a little cleaner than you found it.
-
-To impress clients, you should always go the extra mile and improve their codebase for long term sustainability. Ensure that all links are functioning correctly and clean up the CSS to make it more efficient, consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page.
+# Installation
+Windows:
+Chrome Browser  Version 83.0.4103.116 (Official Build) (64-bit) need to be installed on windows PC.
 
 ## User Story
+As a customer who visits Horiseon should be able to use the below services 
+ a. Search Engine Optimization
+ b. Online Reputation Management
+ c.Social Media Marketing
+ d.Lead Generation
+ e.Brand Awareness
+ f.Cost Management.
 
-```
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
-```
-
-## Acceptance Criteria
+ ## Acceptance Criteria
 
 ```
 GIVEN a webpage meets accessibility standards
@@ -32,13 +30,16 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 
-## Review
 
-You are required to submit the following for review:
+# Review
+ * URL of the deployed application
+ https://hema0618.github.io/homework_01/
 
-* The URL of the deployed application.
+ * URL of the GitHub Repository
+https://github.com/hema0618/homework_01
 
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
+
+
 
 - - -
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
